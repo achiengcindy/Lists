@@ -10,4 +10,4 @@ print(languages)  # ['c', 'java', 'python', 'perl', 'ruby', 'c#']
 
 # insert kotlin in the third position
 languages.insert(2, 'Kotlin')
-print(languages)  # ['c', 'java', 'python', 'perl', 'ruby', 'c#']
+print(languages)  # ['c', 'java', 'Kotlin', 'python', 'perl', 'ruby', 'c#']
